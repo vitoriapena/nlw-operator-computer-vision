@@ -1,0 +1,1 @@
+# 🚀 NLW Operator — Trilha Python: Visão Computacional
